@@ -75,9 +75,9 @@ crashlytics-build.properties
 
 # 용량커서 안 올라가는 fbx 파일들 업로드 안되게 제거하기 위해 추가
 *.fbx
-/Flex_CityVR/Library/
-/LumbarFlexibilityContents/Library/
+/GoalKeeper/Library/
+
 
 # DMCA takedown로 인해 추가함(저작권법 위반 방지)
-/Flex_CityVR/Assets/PaidAsset/
-/Flex_CityVR/Assets/Contents/Kayak/PaidAsset/
+/GoalKeeper/Assets/PaidAsset/
+/GoalKeeper/Assets/Contents/Kayak/PaidAsset/
